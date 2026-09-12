@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Gabriel Fernando Trejo Paz [L23212239@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
